@@ -2,8 +2,7 @@
 
 Welcome to the FinancialResearcher Crew project, powered by [crewAI](https://crewai.com). This AI-powered system performs comprehensive financial research on companies, generating detailed research reports. The multi-agent system leverages crewAI framework to enable agents to collaborate effectively on complex financial analysis tasks, gathering market intelligence and creating insightful reports.
 
-![Uploading freepik_candid_i_with_natural_textures_and_highly_realisti_14738 (1).jpeg…]()
-
+![financial_researcher](https://github.com/user-attachments/assets/98ddc978-c703-4084-8067-3bc88da001cf)
 
 ## Installation
 
