@@ -2,6 +2,9 @@
 
 Welcome to the FinancialResearcher Crew project, powered by [crewAI](https://crewai.com). This AI-powered system performs comprehensive financial research on companies, generating detailed research reports. The multi-agent system leverages crewAI framework to enable agents to collaborate effectively on complex financial analysis tasks, gathering market intelligence and creating insightful reports.
 
+![Uploading freepik_candid_i_with_natural_textures_and_highly_realisti_14738 (1).jpeg…]()
+
+
 ## Installation
 
 Ensure you have Python >=3.10 <3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
